@@ -1,6 +1,6 @@
-# random_joker_app
+# RANDOM JOKER APP
 
-A new Flutter project.
+Um aplicativo desenvolvido em Flutter que consume a API http://www.icndb.com/api/ para obter as piadas randomicamente. O app também salva as piadas que você gosta usando SQLite.
 
 ## Getting Started
 
